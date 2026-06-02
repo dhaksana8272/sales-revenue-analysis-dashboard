@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+sales.db
+
+.streamlit/
+
+.env
+
+.DS_Store
